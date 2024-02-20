@@ -1,1 +1,2 @@
 this is for a merge conflict
+totally different code for merge conflict
